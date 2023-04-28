@@ -6,4 +6,6 @@ Hi, my name is Zubair Hameed, and I’m an aspiring programmer who is enthusiast
 - Python
 - Beginning Java/Javascript
 - C#
-- SQL/MySql
+- MySql
+- Oracle PL/SQL
+- Oracle SQL
